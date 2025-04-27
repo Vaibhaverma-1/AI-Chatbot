@@ -31,7 +31,7 @@ const useChatbot = () => {
         },
         {
           headers: {
-            Authorization: `Bearer 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`, 
+            Authorization: `Bearer `, 
             "Content-Type": "application/json",
           },
         }
