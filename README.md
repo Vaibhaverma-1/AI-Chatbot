@@ -7,9 +7,10 @@ A simple yet powerful **AI Chatbot** built with **Vite + React + TypeScript + Ta
 ## 📸 Preview
 
 > _"Chat with your personalized AI Assistant!"_  
-![Chatbot Screenshot](#)
 > ![image_alt](https://github.com/Vaibhaverma-1/AI-Chatbot/blob/c349a2111e3409953bc39b1e6d43e05554527fcc/chatbot.png)
-![image_alt](https://github.com/Vaibhaverma-1/AI-Chatbot/blob/c349a2111e3409953bc39b1e6d43e05554527fcc/chatbot2.png)
+---
+
+>![image_alt](https://github.com/Vaibhaverma-1/AI-Chatbot/blob/c349a2111e3409953bc39b1e6d43e05554527fcc/chatbot2.png)
 ---
 
 ## 🚀 Tech Stack
